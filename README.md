@@ -1,4 +1,4 @@
-# Youtube Shorts Enhancer
+# Youtube Enhancer
 
 A lightwieght userscript that removes Youtube Shorts from your browsing experience and enhances Youtube.
 
