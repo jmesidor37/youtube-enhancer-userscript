@@ -1,6 +1,6 @@
-# Youtube Shorts Redirector & Hider
+# Youtube Shorts Enhancer
 
-A lightwieght userscript that removes Youtube Shorts from your browsing experience.
+A lightwieght userscript that removes Youtube Shorts from your browsing experience and enhances Youtube.
 
 ## What it does
 - **Hides Shorts:** Removes the Shorts shelves from the Youtube homepage and subscriptions feed
