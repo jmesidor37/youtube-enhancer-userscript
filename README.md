@@ -27,11 +27,11 @@ This script runs on 'https://www.youtube.com/*'
 
 Found a bug or have a feature request? Here is how you can let me know:
 
-- **GitHub:** If you have a GitHub account, please [open an issue](github.com/username/repo/issues) on this repository. 
+- **GitHub:** If you have a GitHub account, please [open an issue](github.com/jmesidor37/youtube-enhacer-userscript/issues) on this repository. 
 - **Greasy Fork:** You can also leave a comment or report a bug in the **Feedback** tab on the Greasy Fork listing page.
 
 ## Known limitation
 Youtube frequently updates its website code. If Youtube changes how their shleves or sidebar links are built, the sript's CSS slectors may need updating.
 
 ## Source code
-The source code is public and readable in this repository [respository name](repo link)
+The source code is public and readable in this repository [youtube-enhancer-usercript](https://github.com/jmesidor37/youtube-enhancer-userscript/blob/main/youtube-enhancer.user.js)
