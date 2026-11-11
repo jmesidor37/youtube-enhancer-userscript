@@ -15,7 +15,7 @@ This script runs on 'https://www.youtube.com/*'
 1. Install a usercript manager like [Violentmonkey](https://violentmonkey.github.io/get-it/) or [Tapermonkey](https://www.tapermonkey.net) in your browser
 2. **CRUCIAL STEP FOR CHORME USERS**: Chrome disables userscripts by default. Go to 'chrome://extensions', fidn your userscript manager, click **Details**, and turn on the **"Allow User Scripts"** toggle. (If you skip this, the script will silently do nothing)
 3. Click the install link below
-- **[Install from Greasy Fork](https://greasyfork.org/en/scripts/604999-youtube-shorts-redirector)**
+- **[Install from Greasy Fork](https://greasyfork.org/en/scripts/604999-youtube-enhancer-no-shorts-real-dates)**
 
 ## How to test it
 1. Go to [Youtube](https://www.youtube.com)
