@@ -6,6 +6,7 @@ A lightwieght userscript that removes Youtube Shorts from your browsing experien
 - **Hides Shorts:** Removes the Shorts shelves from the Youtube homepage and subscriptions feed
 - **Removes the Sidebar Button:** Hides the "Shorts" link in the left-hand navigation menu
 - **Redirects Links:** If you somehow click a Shorts link, it automatically redirects you from '/shorts/VIDEO_ID' to the standard video player ('/watch?v=VIDEO_ID')
+- **Shows Real Dates:** Replaces relative timestamps like "1d ago" with the actual calendar date (e.g., "Nov 11, 2026").
 
 ## Where it runs
 This script runs on 'https://www.youtube.com/*'
@@ -14,7 +15,7 @@ This script runs on 'https://www.youtube.com/*'
 1. Install a usercript manager like [Violentmonkey](https://violentmonkey.github.io/get-it/) or [Tapermonkey](https://www.tapermonkey.net) in your browser
 2. **CRUCIAL STEP FOR CHORME USERS**: Chrome disables userscripts by default. Go to 'chrome://extensions', fidn your userscript manager, click **Details**, and turn on the **"Allow User Scripts"** toggle. (If you skip this, the script will silently do nothing)
 3. Click the install link below
-- **[Install from Greasy Fork](greasy fork link)**
+- **[Install from Greasy Fork](https://greasyfork.org/en/scripts/604999-youtube-shorts-redirector)**
 
 ## How to test it
 1. Go to [Youtube](https://www.youtube.com)
