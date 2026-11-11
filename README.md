@@ -27,7 +27,7 @@ This script runs on 'https://www.youtube.com/*'
 
 Found a bug or have a feature request? Here is how you can let me know:
 
-- **GitHub:** If you have a GitHub account, please [open an issue](github.com/jmesidor37/youtube-enhacer-userscript/issues) on this repository. 
+- **GitHub:** If you have a GitHub account, please [open an issue](https://github.com/jmesidor37/youtube-enhancer-userscript/issues) on this repository. 
 - **Greasy Fork:** You can also leave a comment or report a bug in the **Feedback** tab on the Greasy Fork listing page.
 
 ## Known limitation
