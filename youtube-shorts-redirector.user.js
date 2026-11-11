@@ -19,11 +19,12 @@
             display: none !important;
         }
 
-        /* hide shorts button in the left sidebar */
+        /* hide shorts button in the mini sidebar */
         ytd-guide-entry-renderer:has(a[title="Shorts"]),
         ytd-guide-entry-renderer"has(a[href="/shorts/"]),
         ytd-mini-guide-entry-renderer:has(a[title="Shorts"]),
-        ytd-mini-guide-entry-renderer:has(a[href="/shorts/"]) {
+        ytd-mini-guide-entry-renderer:has(a[href="/shorts/"]),
+        a[title="Shorts"], {
             display: none !important:
 }
     `;
